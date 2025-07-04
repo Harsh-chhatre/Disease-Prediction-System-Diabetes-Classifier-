@@ -1,1 +1,1 @@
-# Disease-Prediction-System-Diabetes-Classifier-
+# Disease Prediction System (Diabetes-Classifier)
